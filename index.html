@@ -2,17 +2,22 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Jackson Miskill</title>
+    <title>Writing</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script
+    type="module"
+    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+  ></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
-    <!-- Bootstrap Javascript loading in -->
+    <!-- My javascript file loading -->
+    <script src="script.js"></script>
+    <!-- Bootstrap Script Loading-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-
     <!-- NAV BAR -->
-    <nav class="navbar navbar-expand-sm bg-light">
+    <nav class="navbar navbar-expand-sm bg-light wholeFile">
 
       <div class="container-fluid">
 
@@ -34,9 +39,28 @@
     </nav>
 
     <!-- About  -->
-    <p>
-
-    </p>
+     <zero-md src="writing/intro.md">
+        <template data-merge="append">
+            <style>
+              p {
+                color: black;
+                font-family: "Lucida Console", "Courier New", monospace
+              }
+              h1 {
+                  color:black;
+                  font-family: "Lucida Console", "Courier New", monospace
+              }
+              h2 {
+                  color:black;
+                  font-family: "Lucida Console", "Courier New", monospace
+              }
+              h3 {
+                  color:black;
+                  font-family: "Lucida Console", "Courier New", monospace
+              }
+            </style>
+        </template>
+     </zero-md>
 
 
 
