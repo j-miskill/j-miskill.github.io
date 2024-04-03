@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Reflections"
 date: 2023-01-07
 ---

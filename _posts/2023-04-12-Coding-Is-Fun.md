@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Coding Is Fun"
 date: 2023-04-12
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Eating Frogs"
 date: 2023-01-14
 ---
