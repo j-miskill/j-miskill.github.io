@@ -1,14 +1,13 @@
 # Hi, I'm Jackson!
 
-## Who I Am
-I am a fourth year at the University of Virginia studying computer science for my undergraduate and graduate degrees. 
+I am a fourth year at the University of Virginia studying computer science for my undergraduate and graduate degrees. In Fall 2024 I will officially be a masters student going for my MCS degree. 
 
 ### My Interests 
 I am interested in creating software for the public good; when I land a job, I want to use that job to promote the public welfare and create better lives for those around the world. I believe that technology can be the answer to that. 
 
-Artificial intelligence, cloud computing, system building, and cyber-physical systems are the areas that I find the most interesting.
+Recently, I have found data science, specifically within the realms of artificial intelligence and machine learning to be fascinating. I think that these tools can be used to create lots of good in the world. One movement that I am absolutely enamored with is [AI For Social Good](https://ai4sibook.org/). I will likely be writing about lots of these things very soon. 
 
-In addition to all of the computer science, I am double majoring in cognitive science. I find the study of the brain to be intrinsically very interesting. Lately, I have been reading and thinking about problem solving, flow, and stoicism. 
+In addition to all the computer science, I am double majoring in cognitive science. I find the study of the brain to be intrinsically very interesting. Lately, I have been reading and thinking about problem-solving, focus, and flow. 
 
 ### Why Did I Create This Website
 
