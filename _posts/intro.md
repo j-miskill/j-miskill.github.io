@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Introduction"
+date: 4.2.2024
+---
+
 # Hi, I'm Jackson!
 
 I am a fourth year at the University of Virginia studying computer science for my undergraduate and graduate degrees. In Fall 2024 I will officially be a masters student going for my MCS degree. 
