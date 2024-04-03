@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Introduction"
 date: 2024-04-02
 ---

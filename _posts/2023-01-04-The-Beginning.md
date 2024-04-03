@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "The Beginning"
 date: 2023-01-04
 ---
