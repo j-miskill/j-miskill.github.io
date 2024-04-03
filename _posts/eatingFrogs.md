@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Eating Frogs"
+date: 4.2.2024
+---
+
 # Eating Frogs
 jmiskill
 

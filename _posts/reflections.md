@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Reflections"
+date: 4.2.2024
+---
+
 # Reflections
 jmiskill
 

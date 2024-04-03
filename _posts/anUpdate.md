@@ -1,3 +1,9 @@
+---
+layout: post
+title: "An Update"
+date: 4.2.2024
+---
+
 # An Update
 jmiskill
 

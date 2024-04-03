@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Coding Is Fun"
+date: 4.2.2024
+---
+
 # Coding is Fun
 
 

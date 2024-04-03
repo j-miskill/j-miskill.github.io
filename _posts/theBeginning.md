@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Beginning"
+date: 4.2.2024
+---
+
 # The beginning
 jmiskill
 
