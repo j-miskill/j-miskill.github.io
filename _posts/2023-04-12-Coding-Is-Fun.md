@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding Is Fun"
-date: 4.2.2024
+date: 2023-04-12
 ---
 
 # Coding is Fun

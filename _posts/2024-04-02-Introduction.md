@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-date: 4.2.2024
+date: 2024-04-02
 ---
 
 # Hi, I'm Jackson!

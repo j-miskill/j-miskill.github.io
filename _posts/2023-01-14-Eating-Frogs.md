@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eating Frogs"
-date: 4.2.2024
+date: 2023-01-14
 ---
 
 # Eating Frogs
