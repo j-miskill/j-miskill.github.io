@@ -29,3 +29,4 @@ I will include pictures and will write in a conversational-style.
 This is the first time I am publishing something like this to the Internet. Furthermore, I am considering this website a long term project that will hopefully continue well into the future! As I figure out what I want to post and don’t want to post, I expect this blog to evolve into what is essentially a virtual version of me.
 
 Thank you for reading.
+{: class="css/"}

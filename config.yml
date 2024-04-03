@@ -1,2 +1,4 @@
 name: Jackson Miskill's Personal Site
 markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
