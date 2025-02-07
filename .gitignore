@@ -1,4 +1,8 @@
 _site/
 /.idea
+.bundle
+.idea
+.jekyll_cache
+
 
 
