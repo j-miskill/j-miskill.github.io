@@ -1,5 +1,0 @@
-name: Jackson Miskill's Personal Site
-theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
