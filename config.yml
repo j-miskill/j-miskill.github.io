@@ -1,5 +1,5 @@
 name: Jackson Miskill's Personal Site
-remote_theme: jekyll-theme-clean-blog
+theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
