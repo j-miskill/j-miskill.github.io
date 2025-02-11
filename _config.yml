@@ -1,7 +1,12 @@
-collections:
-  authors:
+title: Jackson's Website
+email: jcmiskill@gmail.com
+description: a repository for my thoughts
+theme: hacker
+baseurl: "j-miskill.github.io"
+url: ""
+markdown: kramdown
+github_username: j-miskill
 
-theme: minima
 
 
 plugins:
