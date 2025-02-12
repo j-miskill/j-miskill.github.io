@@ -5,7 +5,6 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "github-pages", group: :jekyll_plugins
 gem "minima", "~>2.0"
-gem "jekyll-theme-hacker"
 
 # gem "rails"
 
