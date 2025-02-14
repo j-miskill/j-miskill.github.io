@@ -350,3 +350,50 @@ header.masthead .post-heading .meta a {
         font-size: 30px;
     }
 }
+
+/*Styling for the post page*/
+.post-preview > a {
+    color: var(--gray-900);
+}
+
+.post-preview:focus,
+.post-preview:hover {
+            text-decoration: none;
+            color: var(--primary);
+}
+
+.post-preview >.post-title {
+            font-size: 30px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+.post-preview>.post-subtitle {
+            font-weight: 300;
+            margin: 0 0 10px;
+        }
+
+.post-preview >.post-meta {
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 0;
+    color: var(--gray-600);
+}
+
+.post-preview >a {
+    text-decoration: none;
+    color: var(--gray-900);
+}
+
+.post-preview:focus,
+.post-preview:hover {
+                text-decoration: underline;
+                color: var(--primary);
+            }
+
+
+@media only screen and (min-width: 768px) {
+            .post-preview >.post-title {
+                font-size: 36px;
+            }
+        }
