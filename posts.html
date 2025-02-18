@@ -4,7 +4,7 @@ title: Posts
 background: '../assets/images/fly-fishing-home.jpeg'
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 
 <article class="post-preview">
 <!--  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">-->
