@@ -1,4 +1,5 @@
 <script>
+    <!--Initialize the user id for emailJS-->
     (function() {
         emailjs.init("your_user_id"); // Replace with your EmailJS user ID
     })();
@@ -8,6 +9,7 @@
 
         const user_email = document.getElementById("email").value;
         const message = document.getElementById("message").value;
+        const name = document.getElementsById("name").value;
 
         const params = {
             user_email: user_email,
