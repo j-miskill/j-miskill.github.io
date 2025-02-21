@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu:latest
 
     # setting secret variables from GitHub secrets
-    steps: |
+    steps:
       sed -i 's/YOUR_USER_ID/${{ secrets.USER_ID }}/g' _includes/scripts.html
       sed -i 's/YOUR_SERVICE_ID/${{ secrets.SERVICE_ID }}/g' _includes/scripts.html
       sed -i 's/YOUR_TEMPLATE_ID/${{ secrets.TEMPLATE_ID }}/g' _includes/scripts.html
