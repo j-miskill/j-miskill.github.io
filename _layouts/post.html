@@ -1,11 +1,10 @@
 ---
 layout: default
-background: "../assets/images/ravens-roost.jpeg"
 ---
 
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ post.background }}')">
+<header class="masthead" style="background-image: url('{{ page.background }}')">
   {% else %}
   <header class="masthead">
     {% endif %}
