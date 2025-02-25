@@ -2,6 +2,7 @@
 layout: post
 title: "Twenty Three"
 date: 2024-09-24
+background: "./assets/images/ravens-roost.jpeg"
 ---
 
 # Getting Back To It
