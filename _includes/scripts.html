@@ -1,7 +1,10 @@
 <script>
+    const user_id = process.env("USER_ID");
+    const template_id = process.env("TEMPLATE_ID");
+    const service_id = process.env("SERVICE_ID");
     <!--Initialize the user id for emailJS-->
     (function() {
-        emailjs.init("YOUR_USER_ID"); // Replace with your EmailJS user ID
+        emailjs.init(user_id); // Replace with your EmailJS user ID
     })();
 
     document.getElementById("contactForm").addEventListener("submit", function(event) {
@@ -17,7 +20,7 @@
             name: name
         };
 
-        emailjs.send("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", params)
+        emailjs.send(service_id, template_id, params)
             .then(function(response) {
                 alert("Your message has been sent!");
             }, function(error) {
