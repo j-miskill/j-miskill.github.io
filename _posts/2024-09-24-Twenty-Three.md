@@ -2,7 +2,7 @@
 layout: post
 title: "Twenty Three"
 date: 2024-09-24
-background: "./assets/images/colorado.jpeg"
+background: "../../../..assets/images/colorado.jpeg"
 ---
 
 # Getting Back To It
